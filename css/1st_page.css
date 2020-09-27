@@ -1,0 +1,34 @@
+#border{
+	border: 2px solid;
+    color: #ffc107;
+    margin-top: 76px;
+    max-width: 10%;
+    margin-left: 45%;
+}
+#ourServic1{
+	max-width: 100%;
+    text-align: center;
+    color: #ffc107;
+    margin-top: 20px;
+}
+#service1{
+	   margin-top: 60px; 
+}
+#conDiv{
+	max-width: 20%;
+    max-height: 8%;
+    background: #FFC107;
+    text-align: center;
+    font-size: 43px;
+    border-radius: 50px;
+    color: aliceblue;
+}
+#hading{
+	margin-top: -67px;
+    margin-left: 97px;
+    font-size: 21px;
+    margin-bottom: 25px;
+}
+#span{
+	margin-left: 86px;
+}

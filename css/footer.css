@@ -1,0 +1,31 @@
+#footerMin{
+	background-color: #9E9E9E;
+    max-width: 100%;
+    max-height: 100%;
+    padding-top: 10px;
+}
+
+#h4size h4{
+	color: white;
+	margin-bottom: 30px;
+}
+#h4size h5{
+	color: white;
+	margin-bottom: 30px;
+}
+#pageLink a{
+	color: #ffaa2b;
+}
+#pageLink p{
+	margin-top: 8px;
+}
+#span-h6 span{
+	font-style: italic;
+}
+#span-h6 h6{
+	color: white;
+    margin-top: 9px;
+}
+#last-span span{
+	color: #ffaa2b;
+}
